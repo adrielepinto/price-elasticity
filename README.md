@@ -53,3 +53,4 @@ Clearly, Sonny, Sansung and Apple sells more, however Sonny is the pioneer of th
 Jully  an dAugust are the months that sold more. Maybe it can be explainned bacause it's the month when kids are returning to school and many of them need electronics for their classes.
 
 
+
