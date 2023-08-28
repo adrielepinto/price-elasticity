@@ -16,12 +16,12 @@ Create cross-elasticity between all products, where it will be possible to detec
  - disc_price = Price with discount.
  - merchant = Name of the company.
  - Disc_percentage = Percentage of discount.
- - isSale =
- - Imp_count =
+ - isSale = If the product is for sale.
+ - Imp_count = Countting of demand.
  - brand = Brand of the product.
  - p_description = Desription of the product.
- - dateAdded =
- - dateSeen =
+ - dateAdded = When the was added to dataset.
+ - dateSeen = When was sent.
  - dateUpdated = update date.
  - manufacturer = Manufacturer of the p[roduct.
  - Day_n = Day of the week by name.
