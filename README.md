@@ -37,4 +37,8 @@ Create cross-elasticity between all products, where it will be possible to detec
  -  Which days sold more?
  -  Which months sold more?
  -  Which weeks sold more?
+# Three Data Insigths: 
+# H1 - Which merchant sold more?
+<img width="802" alt="Screen Shot 2023-08-28 at 9 32 48 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/ee57fb45-44d1-4a42-b318-2e02bdeadd1d">
 
+According to the data the merchant EBAY has a large amount of sells compared  to the others.
