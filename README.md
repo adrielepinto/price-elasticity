@@ -49,7 +49,8 @@ According to the data the merchant EBAY has a large amount of sells compared  to
 Clearly, Sonny, Sansung and Apple sells more, however Sonny is the pioneer of the business.
 
 # H8 - Which months sold more?
-<img width="1171" alt="Screen Shot 2023-08-28 at 9 44 57 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/072cb2f2-6685-4948-856d-f2a784f914bb">
+<img width="1177" alt="Screen Shot 2023-08-28 at 12 24 41 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/79352127-6b5a-4c03-9b92-5d727253a00a">
+
 Jully  an dAugust are the months that sold more. Maybe it can be explainned bacause it's the month when kids are returning to school and many of them need electronics for their classes.
 
 # Machine Learning
