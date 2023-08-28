@@ -52,5 +52,24 @@ Clearly, Sonny, Sansung and Apple sells more, however Sonny is the pioneer of th
 <img width="1171" alt="Screen Shot 2023-08-28 at 9 44 57 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/072cb2f2-6685-4948-856d-f2a784f914bb">
 Jully  an dAugust are the months that sold more. Maybe it can be explainned bacause it's the month when kids are returning to school and many of them need electronics for their classes.
 
+# Machine Learning
+Ordinary Least Squares regression (OLS) is a common technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression).
+<img width="791" alt="Screen Shot 2023-08-28 at 12 12 00 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/d6b20370-83f3-4c77-868d-8ff39b0de5f6">
+
+I ran a test to see how the algorithm would behave..
+
+
+# Price Elastice 
+<img width="1119" alt="Screen Shot 2023-08-28 at 12 15 53 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/e438cc14-ac99-4b23-9781-1c8271068afb">
+
+# Business Performance
+<img width="1119" alt="Screen Shot 2023-08-28 at 12 15 53 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/1026a5b7-a975-4d03-bc7a-61c069303813">
+
+# Cross Price Viazualization
+
+# Learnings
+
+
+
 
 
