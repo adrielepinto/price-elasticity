@@ -29,4 +29,5 @@ Create cross-elasticity between all products, where it will be possible to detec
  - month_n = Month by name.
  - day = Day by numbers.
  - Week_Number = Week number of the year.
+ - 
 
