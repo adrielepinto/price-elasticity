@@ -42,3 +42,14 @@ Create cross-elasticity between all products, where it will be possible to detec
 <img width="802" alt="Screen Shot 2023-08-28 at 9 32 48 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/ee57fb45-44d1-4a42-b318-2e02bdeadd1d">
 
 According to the data the merchant EBAY has a large amount of sells compared  to the others.
+
+# H5 - Which brand sold moer?
+<img width="370" alt="Screen Shot 2023-08-28 at 9 37 37 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/1db183ab-8f04-4af9-9d03-91a66eb65689">
+
+Clearly, Sonny, Sansung and Apple sells more, however Sonny is the pioneer of the business.
+
+# H8 - Which months sold more?
+<img width="1171" alt="Screen Shot 2023-08-28 at 9 44 57 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/072cb2f2-6685-4948-856d-f2a784f914bb">
+Jully  an dAugust are the months that sold more. Maybe it can be explainned bacause it's the month when kids are returning to school and many of them need electronics for their classes.
+
+
