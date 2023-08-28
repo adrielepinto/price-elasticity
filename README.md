@@ -8,6 +8,25 @@ The company Prodcts & Cia intends to change the prices of the products sold, but
 
 Create cross-elasticity between all products, where it will be possible to detect the impact of price increases or decreases on each product.
 
-
-
+# Attribute List
+ - Date_imp = Date of Demand.
+ - Category_name = Category name of the product.
+ - name = Name of product;
+ - price = Price of procuct;
+ - disc_price = Price with discount.
+ - merchant = Name of the company.
+ - Disc_percentage = Percentage of discount.
+ - isSale =
+ - Imp_count =
+ - brand = Brand of the product.
+ - p_description = Desription of the product.
+ - dateAdded =
+ - dateSeen =
+ - dateUpdated = update date.
+ - manufacturer = Manufacturer of the p[roduct.
+ - Day_n = Day of the week by name.
+ - month = Month by number.
+ - month_n = Month by name.
+ - day = Day by numbers.
+ - Week_Number = Week number of the year.
 
