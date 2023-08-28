@@ -63,7 +63,8 @@ I ran a test to see how the algorithm would behave..
 <img width="1119" alt="Screen Shot 2023-08-28 at 12 15 53 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/e438cc14-ac99-4b23-9781-1c8271068afb">
 
 # Business Performance
-<img width="1119" alt="Screen Shot 2023-08-28 at 12 15 53 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/2d110c26-7110-4e44-b378-44383b027022">
+<img width="1119" alt="Screen Shot 2023-08-28 at 12 17 39 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/2005f105-afda-4e1e-a274-d4050bd0796a">
+
 
 # Cross Price Viazualization
 
