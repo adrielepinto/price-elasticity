@@ -81,10 +81,10 @@ Ordinary Least Squares regression (OLS) is a technique for estimating coefficien
 <img width="1119" alt="Screen Shot 2023-08-28 at 12 17 39 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/2005f105-afda-4e1e-a274-d4050bd0796a">
 
 
-# Cross Price Viazualization
 
 
-# Infrastructure in production
+
+##  Cross Price Viazualization Infrastructure in production
 
 <img width="763" alt="Screen Shot 2023-09-01 at 10 51 47 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/affaac6d-2cb5-4453-862c-92498f5dadc9">
 
@@ -92,7 +92,9 @@ Ordinary Least Squares regression (OLS) is a technique for estimating coefficien
 In this production structure, the cleaning and data manipulation codes will be sent to a repository on Git Hub. With the updated files, an application will be created in Streamlite that will consume this data, creating the Price Elasticity of the product.
 
 
-# Learnings
+# Cross Price Viazualization
+
+
 
 
 
