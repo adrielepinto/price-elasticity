@@ -65,7 +65,13 @@ Ordinary Least Squares regression (OLS) is a technique for estimating coefficien
 
 
 
-<img width="862" alt="Screen Shot 2023-09-01 at 11 37 19 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/46a91b64-90e7-4150-b0ad-2b1b089bcbf1">
+<img width="828" alt="Screen Shot 2023-09-01 at 11 47 45 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/67c02a6c-18f1-46db-abb7-1ddc12da13c8">
+
+
+- Intercept = Linear coefficient.
+- Slope = Angular Coefficient.
+- Rsquared = R Squared.
+- P_value = P Value.
 
 
 # Price Elastice 
