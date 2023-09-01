@@ -69,6 +69,12 @@ I ran a test to see how the algorithm would behave..
 
 # Cross Price Viazualization
 
+
+# Infrastructure in production
+
+<img width="763" alt="Screen Shot 2023-09-01 at 10 51 47 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/affaac6d-2cb5-4453-862c-92498f5dadc9">
+
+
 # Learnings
 
 
