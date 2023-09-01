@@ -55,7 +55,8 @@ Jully  an dAugust are the months that sold more. Maybe it can be explainned baca
 
 # Machine Learning
 
-<img width="749" alt="Screen Shot 2023-01-10 at 5 40 17 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/f988646a-7084-4bf6-a29e-4386a6fb0f53">
+<img width="635" alt="Screen Shot 2023-09-01 at 11 15 20 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/4dbd6aee-970c-4f42-9fbd-2beff19bf392">
+
 
 After run the Exploratoyr data analysis, I needed to split the dataset in two, and pivoted, making the name of the products the name of the columns. 
 
