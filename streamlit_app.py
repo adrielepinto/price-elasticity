@@ -1,5 +1,4 @@
 # Import libraries
-!pip install pandas 
 import lxml
 import pandas as pd
 import numpy  as np
