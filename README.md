@@ -65,6 +65,8 @@ Ordinary Least Squares regression (OLS) is a technique for estimating coefficien
 
 
 
+<img width="862" alt="Screen Shot 2023-09-01 at 11 37 19 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/46a91b64-90e7-4150-b0ad-2b1b089bcbf1">
+
 
 # Price Elastice 
 <img width="1119" alt="Screen Shot 2023-08-28 at 12 15 53 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/e438cc14-ac99-4b23-9781-1c8271068afb">
