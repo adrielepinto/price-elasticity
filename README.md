@@ -55,6 +55,10 @@ Jully  an dAugust are the months that sold more. Maybe it can be explainned baca
 
 # Machine Learning
 
+<img width="749" alt="Screen Shot 2023-01-10 at 5 40 17 AM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/f988646a-7084-4bf6-a29e-4386a6fb0f53">
+
+After run the Exploratoyr data analysis, I needed to split the dataset in two, and pivoted, making the name of the products the name of the columns. 
+
 ## OLS
 Ordinary Least Squares regression (OLS) is a common technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression).
 <img width="791" alt="Screen Shot 2023-08-28 at 12 12 00 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/d6b20370-83f3-4c77-868d-8ff39b0de5f6">
