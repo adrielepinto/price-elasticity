@@ -61,7 +61,9 @@ Jully  an dAugust are the months that sold more. Maybe it can be explainned baca
 After run the Exploratoyr data analysis, I needed to split the dataset in two, and pivoted, making the name of the products the name of the columns. 
 
 ## OLS
-Ordinary Least Squares regression (OLS) is a common technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression).
+Ordinary Least Squares regression (OLS) is a technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression). This was the algorithm chosen to perform the linear regression model. The algorithm basically calculates the coefficients of a linear regression in such a way that the errors, or rather, the sum of squared errors (SQE) is as small as possible.
+
+
 <img width="791" alt="Screen Shot 2023-08-28 at 12 12 00 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/d6b20370-83f3-4c77-868d-8ff39b0de5f6">
 
 I ran a test to see how the algorithm would behave..
