@@ -54,6 +54,8 @@ Clearly, Sonny, Sansung and Apple sells more, however Sonny is the pioneer of th
 Jully  an dAugust are the months that sold more. Maybe it can be explainned bacause it's the month when kids are returning to school and many of them need electronics for their classes.
 
 # Machine Learning
+
+## OLS
 Ordinary Least Squares regression (OLS) is a common technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression).
 <img width="791" alt="Screen Shot 2023-08-28 at 12 12 00 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/d6b20370-83f3-4c77-868d-8ff39b0de5f6">
 
