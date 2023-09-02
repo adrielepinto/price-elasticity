@@ -81,7 +81,12 @@ Ordinary Least Squares regression (OLS) is a technique for estimating coefficien
 <img width="1119" alt="Screen Shot 2023-08-28 at 12 17 39 PM" src="https://github.com/adrielepinto/price-elasticity/assets/97919969/2005f105-afda-4e1e-a274-d4050bd0796a">
 
 
-
+Of all the products tested, Details About Apple Macbook Air 13.3 Laptop (early 2015) 2.2ghz Core I7 8gb 256gb, is the product that showed the most elasticity.
+- Current Demand 10; 
+- The currente revenue is $7955.09;
+- Suggested reducting of 10% the new price of the product would be $7159.58 ;
+- Increase in demand due to the reduction to 34.12, the revenue would be $24432.58;
+- A suggested reducting of 10% would add  $16477.49 
 
 
 ##  Infrastructure of Cross Price Viazualization  in production
