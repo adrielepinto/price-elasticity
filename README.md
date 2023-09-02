@@ -99,6 +99,9 @@ In this production structure, the cleaning and data manipulation codes will be s
 
 # Cross Price in production
 
+The results of the model can seen by clicking on the link below:
+
+_ OBS: If your browser isn't compatible, you'll need copy the link and past on the Google Chrome to visualize.
 https://price-elasticity-ogwc2dqguyjrchr6o4mfhj.streamlit.app/
 
 
