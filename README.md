@@ -99,7 +99,7 @@ In this production structure, the cleaning and data manipulation codes will be s
 
 The results of the model can seen by clicking on the link below:
 
-_ OBS: If your browser isn't compatible, you'll need copy the link and past on the Google Chrome to visualize.
+- OBS: If your browser isn't compatible, you'll need copy the link and past on the Google Chrome to visualize.
 
 
 https://price-elasticity-ogwc2dqguyjrchr6o4mfhj.streamlit.app/
@@ -111,7 +111,9 @@ Price elasticity is a measure of how the demand for a product or service is affe
 A elastic demand means that a small change in price will result in a large change in quantity demanded. On the other hand, inelastic demand means that a change in price will have little impact on the quantity demanded. If demand is elastic, for example, a reduction in prices can increase sales and generate more profit. If demand is inelastic, it is possible to increase prices without affecting sales as much.
 A clear understanding of price elasticity can help companies stay competitive and meet customer needs more effectively.
 
+
 # Contact:
+
 
 https://www.linkedin.com/in/adriele-pinto/
 
