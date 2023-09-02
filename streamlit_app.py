@@ -12,8 +12,8 @@ import streamlit         as st
 # Import Data Frames
 df_bp = pd.read_csv( './models/business_performance.csv' )
 df_bp = df_bp.drop( 'Unnamed: 0', axis=1 )
-df_c  = pd.read_csv( '/models/crossprice.csv' )
-df_e  = pd.read_csv( '/models/df_elasticity.csv' )
+df_c  = pd.read_csv( './models/crossprice.csv' )
+df_e  = pd.read_csv( './models/df_elasticity.csv' )
 
 
 ######### Layout Streamlit ############
