@@ -97,7 +97,9 @@ Of all the products tested, Details About Apple Macbook Air 13.3 Laptop (early 2
 In this production structure, the cleaning and data manipulation codes will be sent to a repository on Git Hub. With the updated files, an application will be created in Streamlite that will consume this data, creating the Price Elasticity of the product.
 
 
-# Cross Price Viazualization
+# Cross Price in production
+
+https://price-elasticity-ogwc2dqguyjrchr6o4mfhj.streamlit.app/
 
 
 
