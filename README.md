@@ -107,7 +107,15 @@ _ OBS: If your browser isn't compatible, you'll need copy the link and past on t
 https://price-elasticity-ogwc2dqguyjrchr6o4mfhj.streamlit.app/
 
 
+# Conclusion
 
+Price elasticity is a measure of how the demand for a product or service is affected by changes in the price, being an invaluable tool for companies to determine the ideal prices for their products and services, in order to maximize their profits.
+A elastic demand means that a small change in price will result in a large change in quantity demanded. On the other hand, inelastic demand means that a change in price will have little impact on the quantity demanded. If demand is elastic, for example, a reduction in prices can increase sales and generate more profit. If demand is inelastic, it is possible to increase prices without affecting sales as much.
+A clear understanding of price elasticity can help companies stay competitive and meet customer needs more effectively.
+
+# Contact:
+
+https://www.linkedin.com/in/adriele-pinto/
 
 
 
